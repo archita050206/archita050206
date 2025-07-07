@@ -3,7 +3,7 @@
 🌱 Currently learning: JavaScript, React, and DSA  
 
 🛠️ Tech Stack:  
-- Languages: C++, Java, JavaScript  
+- Languages: C++, JavaScript, HTML  
 - Web: HTML, Tailwind CSS, PHP  
 - Tools: Git, VS Code  
 - Currently exploring: React, Node.js
